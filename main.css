@@ -8,7 +8,7 @@ body {
   font-family: sans-serif;
 }
 
-header {
+header, footer {
   background: #ea5169;
   color: white;
   padding: 20px;
